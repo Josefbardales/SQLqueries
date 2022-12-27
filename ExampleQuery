@@ -13,7 +13,7 @@ user_id	  name	      lastname	  email
 --END OF TABLE 1
 
 --TABLE 2 - SkillLevel
-user_id	    ranking	    location
+user_id	    ranking	     location
 1	          8	          Canada   
 2	          5	          Mexico	   
 3	          7	          Honduras
