@@ -1,15 +1,15 @@
 --TABLE 1 - ListofCandidates
 user_id	  name	      lastname	  email
- 1	      Justin	    Stone	      justinstone1994@gmail.com
- 2	      Jose	      Gonzalez	  josegonzalez1984@gmail.com
- 3	      Ricardo	    Mejia	      ricardomejia1998@gmail.com
+ 1	      Justin	     Stone	     justinstone1994@gmail.com
+ 2	      Jose	       Gonzalez	  josegonzalez1984@gmail.com
+ 3	      Ricardo	    Mejia	     ricardomejia1998@gmail.com
  4	      Gonzalo	    Araujo	    gonzaloaraujo1993@gmail.com
- 5	      Jose	      Bardales	  josefbardales@outlook.com
- 6	      Luis	      Urbina	    luisurbina1989@gmail.com
- 7	      Michael	    Smith	      michaelsmith1998@gmail.com
- 8	      Miguel	    Montes	    miguelmontes1999@gmail.com
- 9	      Andres	    Santos	    andressantos1992@gmail.com
- 10 	    Pablo	      Perez	      pablojperez@gmail.com
+ 5	      Jose	       Bardales	  josefbardales@outlook.com
+ 6	      Luis	       Urbina	    luisurbina1989@gmail.com
+ 7	      Michael	    Smith	     michaelsmith1998@gmail.com
+ 8	      Miguel	     Montes	    miguelmontes1999@gmail.com
+ 9	      Andres	     Santos	    andressantos1992@gmail.com
+ 10 	    Pablo	      Perez	     pablojperez@gmail.com
 --END OF TABLE 1
 
 --TABLE 2 - SkillLevel
@@ -22,8 +22,8 @@ user_id	    ranking	    location
 6	          2	          Spain	    
 7	          4	          US	     
 8	          6	          Mexico	
-9	          10	        Colombia	 
-10	        9	          Peru	 
+9	          10	         Colombia	 
+10	         9           Peru	 
 --END OF TABLE 2
 
 SELECT 
