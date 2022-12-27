@@ -27,7 +27,7 @@ user_id	    ranking	    location
 --END OF TABLE 2
 
 SELECT 
-  loc.Name,
+  loc.name,
   loc.lastname,
   sl.ranking,
   sl.location,
@@ -37,4 +37,5 @@ SELECT
   WHERE sl.ranking = 1
   
 --OUTPUT
-  
+name  lastname  ranking  location  email
+Jose  Bardales  1        Honduras  josefbardales@outlook.com
